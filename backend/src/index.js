@@ -14,13 +14,7 @@ const PORT = process.env.PORT || 5000;
 
 app.use(
   cors({
-    origin: [
-      "http://localhost:3000",
-      "http://localhost:5173",
-      
-      "https://rating-store-tau.vercel.app ",
-      "https://rating-store-dm0zuv6je-sanskarpawar2003-9969s-projects.vercel.app",
-    ],
+    origin: true,
     credentials: true,
   }),
 );
