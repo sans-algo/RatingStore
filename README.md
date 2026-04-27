@@ -8,7 +8,7 @@ Built with **Express.js** (Backend), **PostgreSQL** (Database), **React.js** + *
 
 ## 🌐 Live Demo
 
-🔗 **Frontend**: [rating-store-tau.vercel.app](rating-store-tau.vercel.app)  
+🔗 **Frontend**: [https://rating-store-tau.vercel.app/](https://rating-store-tau.vercel.app/)  
 🔗 **Backend API**: [https://ratingstore-mlk0.onrender.com](https://ratingstore-mlk0.onrender.com)
 
 ---
