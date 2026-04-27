@@ -18,6 +18,7 @@ app.use(
       "http://localhost:3000",
       "http://localhost:5173",
       "https://rating-system-sigma.vercel.app",
+      "https://rating-store-dm0zuv6je-sanskarpawar2003-9969s-projects.vercel.app",
     ],
     credentials: true,
   }),
